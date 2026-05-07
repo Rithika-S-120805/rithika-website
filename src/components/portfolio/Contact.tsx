@@ -13,7 +13,7 @@ const socials = [
   {
     Icon: Linkedin,
     label: "LinkedIn",
-    value: "/in/rithikasenthilkumar",
+    value: "rithika-s-453a0a374",
     href: "https://www.linkedin.com/in/rithika-s-453a0a374/",
   },
 
@@ -32,7 +32,7 @@ export const Contact = () => {
       <SectionHeader
         eyebrow="Contact"
         title="Let's build something together"
-        description="Open to internships, freelance projects, and interesting collaborations. The fastest way to reach me is email — I usually reply within a day."
+        description="Open to internships, freelance projects, and interesting job collaborations. The fastest way to reach me is email — I usually reply within a day."
       />
       <div ref={ref} className="reveal glass rounded-3xl p-8 md:p-12 gradient-border relative overflow-hidden">
         <div className="absolute -top-20 -right-20 w-64 h-64 rounded-full bg-primary/30 blur-3xl" />

@@ -48,7 +48,7 @@ export const Education = () => {
               <div className="glass rounded-2xl p-6 glow-on-hover gradient-border">
                 <div className="flex flex-wrap items-baseline justify-between gap-2">
                   <h3 className="font-display text-xl font-semibold">{it.school}</h3>
-                  <span className="text-xs px-2 py-1 rounded-full bg-secondary text-muted-foreground">
+                  <span className="text-xs px-2 py-1 rounded-full bg-secondary text-color-white">
                     {it.period}
                   </span>
                 </div>

@@ -34,7 +34,7 @@ export const Navbar = () => {
     >
       <nav className="container flex items-center justify-between h-16">
         <a href="#home" className="font-display text-xl font-bold">
-          <span className="gradient-text">{"<"}RS{"/>"}</span>
+          <img src="/logo.png" alt="Logo" className="w-15 h-8 mr-2 inline-block" />
         </a>
         <ul className="hidden md:flex items-center gap-7 text-sm">
           {links.map((l) => (
