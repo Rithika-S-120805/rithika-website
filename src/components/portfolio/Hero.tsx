@@ -130,7 +130,7 @@ export const Hero = () => {
                 <img
                   src="/profile.jpeg"
                   alt="RS"
-                  className="w-72 h-72 rounded-full object-cover border-4 border-white shadow-[0_0_40px_rgba(200,85,247,0.35)]"
+                  className="w-full h-full rounded-full object-cover border-4 border-white shadow-[0_0_40px_rgba(200,85,247,0.35)]"
                 />
 
                 
