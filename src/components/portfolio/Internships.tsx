@@ -27,6 +27,19 @@ const internships = [
       "Collaborated with development teams to improve application performance, usability, and overall user experience.",
     ],
   },
+
+  {
+    company: "ELGi Equipments Limited",
+    role: "Manufacturing Engineering Intern",
+    period: "May 2026 — present2026",
+    location: "Coimbatore, India",
+    certificate: "/elgi.pdf",
+    points: [
+      "Worked on manufacturing process optimization and quality control in an industrial setting.",
+      "Tested the software to validate its functionality, performance, and reliability, ensuring it meets the specified requirements.",
+      "Generated power Bi reports to analyze and visualize manufacturing data, providing insights for process improvement and decision-making.",
+    ],
+  },
 ];
 
 export const Internships = () => {
